@@ -1,8 +1,8 @@
-import { ClientProvider } from "@/utils/trpc/client";
+import { ClientProvider } from "@/utils/trpc/trpc";
 import "./globals.css";
 
 export const metadata = {
-  title: "Edest NextJS + tRPC",
+  title: "Edgest NextJS + tRPC",
   description: "Edgest NextJS with tRPC",
 };
 
